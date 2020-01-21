@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f059bc5cc8dfd4b5ca44df34488ec96d",
+    "revision": "6fa822aae15f555f08798e12453bda3d",
     "url": "/qab-redmine/index.html"
   },
   {
-    "revision": "f105e7cbc3c63eb61f2f",
+    "revision": "5475b716a66f7ec2c8f3",
     "url": "/qab-redmine/static/css/main.f2daf9a9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/qab-redmine/static/js/2.cacb5c1c.chunk.js.LICENSE"
   },
   {
-    "revision": "f105e7cbc3c63eb61f2f",
-    "url": "/qab-redmine/static/js/main.497b6ede.chunk.js"
+    "revision": "5475b716a66f7ec2c8f3",
+    "url": "/qab-redmine/static/js/main.e631d908.chunk.js"
   },
   {
     "revision": "116147794e0d590808ee",
