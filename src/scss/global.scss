@@ -1,0 +1,12 @@
+@import './variables.scss';
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: $font-family-main;
+    color: $light-color;
+}
+
+body {
+    background-color: $dark-color;
+}

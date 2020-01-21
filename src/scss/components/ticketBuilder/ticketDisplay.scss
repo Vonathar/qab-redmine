@@ -1,0 +1,19 @@
+@import '../../variables.scss';
+
+#ticketDisplay-div {
+    width: 70vw;
+    height: 200px;
+    margin: 60px auto 0;
+    padding: 10px 20px;
+    background-color: $light-color;
+    font-size: $font-small;
+
+    p {
+        color: $dark-color;
+        margin: 10px 0;
+    }
+
+    .header {
+        font-weight: bold;
+    }
+}

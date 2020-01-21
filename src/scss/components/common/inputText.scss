@@ -1,0 +1,24 @@
+@import '../../variables.scss';
+
+.inputText-div {
+    width: 300px;
+    font-size: 120px !important;
+
+
+    .MuiFormLabel-root,
+    .MuiInputLabel-root {
+        color: $light-color !important
+    }
+
+    .MuiInput-underline:before {
+        border-color: $light-color;
+    }
+}
+
+.MuiFormControl-root {
+    margin: 20px !important;
+}
+
+.MuiInputBase-input {
+    color: $light-color !important
+}
