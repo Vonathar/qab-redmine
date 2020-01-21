@@ -13,9 +13,7 @@ class InputText extends Component {
     }
     render() {
         return (
-            <form>
-                <TextField className="inputText-div" id={this.props.label} label={this.props.label} color="secondary" onChange={(e) => { this.dispatchToStore(e.target) }} />
-            </form>
+            <TextField className="inputText-div" id={this.props.label} label={this.props.label} color="secondary" onChange={(e) => { e.preventDefault(); this.dispatchToStore(e.target) }} />
         )
     }
 }
