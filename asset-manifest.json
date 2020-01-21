@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/qab-redmine/static/css/main.f2daf9a9.chunk.css",
-    "main.js": "/qab-redmine/static/js/main.1ff52560.chunk.js",
-    "main.js.map": "/qab-redmine/static/js/main.1ff52560.chunk.js.map",
+    "main.js": "/qab-redmine/static/js/main.497b6ede.chunk.js",
+    "main.js.map": "/qab-redmine/static/js/main.497b6ede.chunk.js.map",
     "runtime-main.js": "/qab-redmine/static/js/runtime-main.c73ebeae.js",
     "runtime-main.js.map": "/qab-redmine/static/js/runtime-main.c73ebeae.js.map",
     "static/js/2.cacb5c1c.chunk.js": "/qab-redmine/static/js/2.cacb5c1c.chunk.js",
     "static/js/2.cacb5c1c.chunk.js.map": "/qab-redmine/static/js/2.cacb5c1c.chunk.js.map",
     "index.html": "/qab-redmine/index.html",
-    "precache-manifest.c2cbb7da12578a896813d0a39ef3e233.js": "/qab-redmine/precache-manifest.c2cbb7da12578a896813d0a39ef3e233.js",
+    "precache-manifest.c200db234fe036d892f1efb4b3545599.js": "/qab-redmine/precache-manifest.c200db234fe036d892f1efb4b3545599.js",
     "service-worker.js": "/qab-redmine/service-worker.js",
     "static/css/main.f2daf9a9.chunk.css.map": "/qab-redmine/static/css/main.f2daf9a9.chunk.css.map",
     "static/js/2.cacb5c1c.chunk.js.LICENSE": "/qab-redmine/static/js/2.cacb5c1c.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c73ebeae.js",
     "static/js/2.cacb5c1c.chunk.js",
     "static/css/main.f2daf9a9.chunk.css",
-    "static/js/main.1ff52560.chunk.js"
+    "static/js/main.497b6ede.chunk.js"
   ]
 }
