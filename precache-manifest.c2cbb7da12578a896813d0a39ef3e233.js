@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d40d5eedd8bc0199f6387e8cdb91d14",
+    "revision": "070ba6553b439110fcf105f5a4e96189",
     "url": "/qab-redmine/index.html"
   },
   {
