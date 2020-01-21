@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/qab-redmine/static/css/main.f2daf9a9.chunk.css",
+    "main.js": "/qab-redmine/static/js/main.1ff52560.chunk.js",
+    "main.js.map": "/qab-redmine/static/js/main.1ff52560.chunk.js.map",
+    "runtime-main.js": "/qab-redmine/static/js/runtime-main.c73ebeae.js",
+    "runtime-main.js.map": "/qab-redmine/static/js/runtime-main.c73ebeae.js.map",
+    "static/js/2.cacb5c1c.chunk.js": "/qab-redmine/static/js/2.cacb5c1c.chunk.js",
+    "static/js/2.cacb5c1c.chunk.js.map": "/qab-redmine/static/js/2.cacb5c1c.chunk.js.map",
+    "index.html": "/qab-redmine/index.html",
+    "precache-manifest.ab5354550577be6ad0265904a948f668.js": "/qab-redmine/precache-manifest.ab5354550577be6ad0265904a948f668.js",
+    "service-worker.js": "/qab-redmine/service-worker.js",
+    "static/css/main.f2daf9a9.chunk.css.map": "/qab-redmine/static/css/main.f2daf9a9.chunk.css.map",
+    "static/js/2.cacb5c1c.chunk.js.LICENSE": "/qab-redmine/static/js/2.cacb5c1c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c73ebeae.js",
+    "static/js/2.cacb5c1c.chunk.js",
+    "static/css/main.f2daf9a9.chunk.css",
+    "static/js/main.1ff52560.chunk.js"
+  ]
+}
